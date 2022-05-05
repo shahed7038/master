@@ -43,6 +43,7 @@ public class Guess_a_number_game {
 		while(!b) {
 		g.takeuserinput();
 		g.isCorrectNumber();
+			//just adding it for practice
 		}
 	}
 
